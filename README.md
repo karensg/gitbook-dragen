@@ -2,9 +2,9 @@
 description: How to create an app
 ---
 
-# Create React App
+# Welcome
 
-![Logo](https://create-react-app.dev/img/logo.svg)
+![Welcome](.gitbook/assets/contact.jpg)
 
 Create React apps with no build configuration.
 
